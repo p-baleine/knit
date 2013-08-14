@@ -3,7 +3,7 @@
   "repo": "p-baleine/knit",
   "description": "Implicit injection engine for node.js (inspired from Guice)",
   "version": "0.0.2",
-  "keywords": "keywords": [
+  "keywords": [
     "dependency",
     "injection",
     "container"
